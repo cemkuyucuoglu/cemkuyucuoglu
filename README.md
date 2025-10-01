@@ -1,4 +1,5 @@
 # I'm Cem Kuyucuoglu
+### I’ve completed the HTML stage and now diving into the world of CSS. Currently building my skills, one line of code at a time.  
 ## HTML & CSS
 
 ### Connect with me
